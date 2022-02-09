@@ -1,0 +1,12 @@
+div {
+    border: 20px solid rgb(45, 19, 160);
+    text-align: center;/*to make span text align */
+  }
+ div{
+    display: inline-block;
+
+  }
+  .class1{border: 20px solid rgb(214, 15, 42);}/*added to img*/
+  
+  img{ display: block ; }/*img is inline
+  
